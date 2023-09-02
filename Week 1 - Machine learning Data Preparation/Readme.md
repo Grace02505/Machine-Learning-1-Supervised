@@ -59,4 +59,7 @@ Since it is your first week of ML, it is okay if you do not proceed to this sect
 |freq_m_hz_sd             |double    |Frequency (Mhz)    |
 |n                        |integer   | Total number of observations for date, type, foundry, vendor grouping    |
 
-
+# Outcome 
+I did a b c and d and got the following results:
+ 1. Moores Law - What does it ssay and what did I get. 
+ 
